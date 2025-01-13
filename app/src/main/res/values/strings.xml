@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UtilityPayment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="pay_electricity_bill">Pay Electricity Bill</string>
+    <string name="pay_water">Pay Water Bill</string>
+    <string name="payment_history">View Payment History</string>
+    <string name="history">History</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_password">Create Password</string>
+</resources>
